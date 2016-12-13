@@ -1,2 +1,3 @@
 # hello-world
 My hello world repository
+I'm a newby trying to learn a bit about ruby and github ...
